@@ -1,25 +1,5 @@
-'''Latihan fungsi'''
 
 import os 
-
-# # menghitung luas dan keliling persegi panjang
-# os.system("cls")
-# print(f"{"MENGHITUNG LUAS DAN":^50}")
-# print(f"{"KELILING PERSEGI PANJANG  ":^50}")
-# print(f"{"="*50:^50}")
-
-
-# #input user
-# PANJANG = int(input("Panjang ="))
-# LEBAR = int(input("Lebar ="))
-
-# # menghitung luas 
-# LUAS = PANJANG * LEBAR
-# KELILING = 2*PANJANG + 2*LEBAR
-
-# # show the result
-# print(f"result perhitungan LUAS ={LUAS}")
-# print(f"result perhitungan KELILING ={KELILING}")
 
 def header():
     os.system("cls")
